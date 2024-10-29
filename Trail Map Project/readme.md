@@ -10,15 +10,3 @@ This trail is considered easy. It is children and pet-friendly. It is advised to
 Time Estimate provided by Google Maps
 
 Map authored by Eryn Stowe
-
-
-
-
-To discuss with Dr. Sugg: (from grading criteria)
-- Is this the appropriate basemap? (Point 2)
-- Does my map of Flattop satisfy the placemarkers requirements for point 3?
-- How do I customize the color to fit the requirements?
-- I tried to adjust the zoom and centering to fit my maps the best, but it was not working. Recommendations? 
-- Is the readne.md file correctly placed above? Do I need to cite the websites used to convert the Google Maps link into code?
-
-Upload into Github & Write 150 word reflection prior to submitting assignment. 
